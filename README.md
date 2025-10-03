@@ -9,3 +9,11 @@ This dataset was aggregated and cleaned by me (Ryan Tran), utilizing Python and 
 The dataset was easy to work with once scraped, all denial descriptions are uniform because student associates that handle these submissions must use a copy-and-paste for why their organization is denied. This allows use of keywords and phrases to easily categorize them of different reasons.
 
  Most information (emails, organization name, etc.) is omitted for privacy reasons.
+
+# File Overviews
+
+| File | Description |
+| --- | --- |
+| HORNSLINK - Denial Reasons Categorizer.py | Script ran to add categories to each entry |
+| HornsLink Webscraper.py | Webscraper script ran to webscrape denial comment entries |
+| RegistrationSubmissions - RAW DATA.csv | Raw data from webscraper |
