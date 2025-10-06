@@ -17,3 +17,4 @@ The dataset was easy to work with once scraped, all denial descriptions are unif
 | HORNSLINK - Denial Reasons Categorizer.py | Script ran to add categories to each entry |
 | HornsLink Webscraper.py | Webscraper script ran to webscrape denial comment entries |
 | RegistrationSubmissions - RAW DATA.csv | Raw data from webscraper |
+| Categorized_RegistrationSubmissions.csv | Categorized tables from Python script |
